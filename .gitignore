@@ -1,0 +1,21 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Data
+fer2013.csv
+history.db
+*.csv
+
+# IDE/OS specific
+.DS_Store
+tempCodeRunnerFile.py
+.vscode/
+
+# Analysis results
+.quality_analysis_images/
